@@ -58,13 +58,13 @@ Completed and functional.
 ## Screenshots
 
 ### Home
-![ExpiryBox Home](screenshots/home.png)
+![ExpiryBox Home](screenshots/Home.png)
 
 ### Add Item
-![Add Item](screenshots/add-item.png)
+![Add Item](screenshots/Add-item.png)
 
 ### Expiration Tracking
-![Expiration Tracking](screenshots/expiration-tracking.png)
+![Expiration Tracking](screenshots/Expiration-tracking.png)
 
 ## Author
 
